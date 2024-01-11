@@ -1,5 +1,5 @@
 {
-  "name": "@Birdseye-Team/loriini-library",
+  "name": "@dajanaradovanovic-BSI/loriini",
   "version": "1.0.0",
   "description": "",
   "main": "dist/index.umd.js",
@@ -22,6 +22,6 @@
     "react": "^18.2.0"
   },
   "publishConfig": {
-    "@Birdseye-Team:registry": "https://npm.pkg.github.com"
+    "@dajanaradovanovic-BSI:registry": "https://npm.pkg.github.com"
   }
 }
